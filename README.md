@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on TdAmeritrade API Library
+- 🔭 I’m currently working on a api!
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
