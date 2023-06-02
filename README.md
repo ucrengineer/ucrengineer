@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I enjoy software development and financial markets
+- 🔭 I'm interested in software development and financial markets
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
