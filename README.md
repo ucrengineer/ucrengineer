@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucrengineer&show_icons=true&theme=tokyonight)
 
-![badges](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5ec81cd-683b-439f-bac2-24f80f62ccab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+![microsoft-certified-azure-developer-associate 1](https://github.com/ucrengineer/ucrengineer/assets/52877259/a0e62003-751e-4772-875f-2b6d537e2329)
