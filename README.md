@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucrengineer&show_icons=true&theme=tokyonight)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5ec81cd-683b-439f-bac2-24f80f62ccab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![badges](https://www.credly.com/badges/d5ec81cd-683b-439f-bac2-24f80f62ccab/public_url)
